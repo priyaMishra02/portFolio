@@ -1,2 +1,2 @@
 # portFolio
-my first portfolio web
+my first portfolio website
